@@ -21,7 +21,7 @@ An API coding quiz to consolidate the topics learnt in week 6
 https://dijahmohammed.github.io/challenge-6/
   
 ## Picture of deployed site
-![image](https://github.com/dijahmohammed/challenge-6/assets/151194271/1947d6aa-49af-4336-b627-d08e90b44d96)
+![image](https://github.com/dijahmohammed/challenge-6/assets/151194271/d1a40623-8520-4260-bec8-8509484fd064)
 
 ## License
 MIT License
